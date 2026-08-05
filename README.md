@@ -85,7 +85,7 @@ Main Columns:
 
 ## 📸 Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
+> ![Dashboard](Dashboard.png)
 
 ---
 
